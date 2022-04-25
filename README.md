@@ -1,4 +1,2 @@
-Hi, I'm Kunhao. A student as well as an explorer.
+Hi, I'm Kunhao.
 Nice to see you here.😀
-
-Share some WHIMSY and code here occasionally.
